@@ -4,7 +4,7 @@ Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistem
 Sempre em busca de me desenvolver como profissional.<br/>
 Idiomas: Português/Inglês.<br/>
 <hr>
-
+<h2>Línguagens utilizadas e informações de contato abaixo:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
