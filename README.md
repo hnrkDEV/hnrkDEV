@@ -1,9 +1,9 @@
-##Olá, sou João👋, aspirante a Desenvolvedor Front-End e amante da Tecnologia.💻
-Eu me chamo João Henrique.
-Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau.👨🏽‍💻
-Sempre em busca de me desenvolver como profissional.
-Idiomas: Português/Inglês.
-
+##Olá, sou João👋, aspirante a Desenvolvedor Front-End e amante da Tecnologia.💻 <br/>
+Eu me chamo João Henrique.<br/>
+Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau.👨🏽‍💻<br/>
+Sempre em busca de me desenvolver como profissional.<br/>
+Idiomas: Português/Inglês.<br/>
+<hr>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
