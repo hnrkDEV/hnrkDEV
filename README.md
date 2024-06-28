@@ -1,4 +1,4 @@
-##Olá, sou João👋, aspirante a Desenvolvedor Front-End e amante da Tecnologia.💻 <br/>
+<h1>Olá, sou João👋, aspirante a Desenvolvedor Front-End e amante da Tecnologia.💻</h1> <br/>
 Eu me chamo João Henrique.<br/>
 Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau.👨🏽‍💻<br/>
 Sempre em busca de me desenvolver como profissional.<br/>
@@ -13,7 +13,7 @@ Idiomas: Português/Inglês.<br/>
   <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+<br/>
 <div>
   <a href="https://www.instagram.com/hnrk_cav/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jhenrique.caval@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
