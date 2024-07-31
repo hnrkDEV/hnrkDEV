@@ -1,4 +1,4 @@
-<h1>Olá, sou João👋, futuro Desenvolvedor Front-End e amante da Tecnologia.💻</h1> <br/>
+<h1>Olá, sou o João👋, futuro Desenvolvedor Front-End e amante da Tecnologia.💻</h1> <br/>
 <ul>
 <li>Eu me chamo João Henrique.<br/></li>
 <li>Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau.👨🏽‍💻<br/></li>
