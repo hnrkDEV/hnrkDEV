@@ -3,7 +3,7 @@
 <li>Eu me chamo João Henrique.<br/></li>
 <li>Curso Desenvolvimento Full Stack pela Ebac e Analise e Desenvolvimento de Sistema na Uninassau.👨🏽‍💻<br/></li>
 <li>Sempre em busca de me desenvolver como profissional.<br/></li>
-<li>Idiomas: Português/Inglês.<br/></li>
+<li>Outros idiomas: Inglês<br/></li>
 </ul>
 <hr>
 <h2>Línguagens utilizadas e informações de contato abaixo:</h2>
