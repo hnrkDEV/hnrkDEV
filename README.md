@@ -21,8 +21,8 @@ I'm currently delving deeper into javascript and his Frameworks<br>- ⚡ In my f
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hnrkDEV&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJwbG80djkyNnlhcjA4cWYwbGZyeTJ1N210anNweTBsbTFyOXI3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"/>
+</div>
 <br/>
 
 ###
