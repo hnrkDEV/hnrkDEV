@@ -15,10 +15,10 @@ I'm currently delving deeper into javascript and his Frameworks<br>- ⚡ In my f
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnrkDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 <br/>
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJwbG80djkyNnlhcjA4cWYwbGZyeTJ1N210anNweTBsbTFyOXI3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"/>
-<br/>
 <h3 align="left">🔥   My Stats :</h3>
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJwbG80djkyNnlhcjA4cWYwbGZyeTJ1N210anNweTBsbTFyOXI3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"/>
+<br/>
 ###
 
 <div align="center">
