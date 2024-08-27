@@ -6,9 +6,9 @@
 
 ###
 
+  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJwbG80djkyNnlhcjA4cWYwbGZyeTJ1N210anNweTBsbTFyOXI3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"/>
 <p align="left">I'm João Henrique from Recife-PE<br><br>- 🔭 I’m working as Technical Support<br>- 📚 
 I'm currently delving deeper into javascript and his Frameworks<br>- ⚡ In my free time I play a little</p>
-  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJwbG80djkyNnlhcjA4cWYwbGZyeTJ1N210anNweTBsbTFyOXI3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"/>
 <hr>
 <div style= "display: flex; justify-content: center " align="left" >
   <img src="https://github-readme-stats.vercel.app/api?username=hnrkDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=pt-BR&hide_border=false" height="150" alt="stats graph" />
