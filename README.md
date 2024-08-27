@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm João Henrique from Recife-PE<br><br>- 🔭 I’m working as Technical Support<br>- 📚 
+<p align="left">My name is João Henrique<br><br>- 🔭 I’m working as Technical Support<br>- 📚 
 I'm currently delving deeper into javascript and his Frameworks<br>- ⚡ In my free time I play a little</p>
 <hr>
 <div align="center" >
