@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 
 ###
 
@@ -46,6 +46,8 @@ I'm currently delving deeper into javascript and his Frameworks<br>- ⚡ In my f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
+###
+<h3 align="left">💻 Social Networks/Contact:</h3>
 ###
 <div>
   <a href="https://www.instagram.com/hnrk_cav/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
