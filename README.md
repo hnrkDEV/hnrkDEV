@@ -12,7 +12,7 @@
 </div>
 <br/>
 <h2>Línguagens utilizadas e informações de contato abaixo:</h2>
-<img align="right" height="150" src="https://media1.tenor.com/m/wO3KAyeQWgoAAAAC/okkotsu-yuta-okkotsu.gif"/>
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9kNndidDRma2FraXFiNWpxaDk5bDA3dWd2a2w3ZW0xcnk1NzFzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
 
 <div style="display: inline-block" align = "left"><br>
    <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
