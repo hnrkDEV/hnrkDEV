@@ -13,6 +13,7 @@ I'm currently delving deeper into javascript and his Frameworks<br>- ⚡ In my f
 <div style= "display: flex; justify-content: center " align="left" >
   <img src="https://github-readme-stats.vercel.app/api?username=hnrkDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=pt-BR&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnrkDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJwbG80djkyNnlhcjA4cWYwbGZyeTJ1N210anNweTBsbTFyOXI3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"/>
 </div>
 <br/>
 <h3 align="left">🔥   My Stats :</h3>
@@ -21,7 +22,6 @@ I'm currently delving deeper into javascript and his Frameworks<br>- ⚡ In my f
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hnrkDEV&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJwbG80djkyNnlhcjA4cWYwbGZyeTJ1N210anNweTBsbTFyOXI3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.webp"/>
 </div>
 <br/>
 
