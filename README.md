@@ -12,7 +12,7 @@
 </div>
 <br/>
 <h2>Línguagens utilizadas e informações de contato abaixo:</h2>
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9kNndidDRma2FraXFiNWpxaDk5bDA3dWd2a2w3ZW0xcnk1NzFzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"/>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDEzd29kajI5aHR3OHc2dDd4cnJoa3J1dGR3eDJ2Yjc0ajU1MWUxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp"/>
 
 <div style="display: inline-block" align = "left"><br>
    <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
