@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋, Welcome to my profile!</h1>
+<h1 align="center">Hey there 👋, Welcome to my profile!</h1>
 
 ###
   <h3 align="left">👩‍💻About Me:</h3>
