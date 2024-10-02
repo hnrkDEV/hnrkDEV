@@ -9,21 +9,7 @@
 <p align="left">📍 My name is João Henrique<br><br>- 🔭 I’m working as Technical Support<br>- 📚 
 I'm currently delving deeper into javascript and his Frameworks<br>- ⚡ In my free time I play a little</p>
 <hr>
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=hnrkDEV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=pt-BR&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnrkDEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-</div>
-<br/>
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hnrkDEV&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<br/>
-
-###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
