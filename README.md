@@ -38,18 +38,3 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/e1/06/ee/e106ee093d744089a5ce56fd49675047.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hnrkDEV/hnrkDEV/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
