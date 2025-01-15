@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is João Henrique.<br>
+👨🏽‍🎓 My name is João Henrique.<br>
 🔭 I’m currently working on Compass UOL<br>🌱 I’m currently learning backend Development
 
 
