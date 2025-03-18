@@ -4,6 +4,7 @@
 👨🏽‍🎓 Systems Analysis and Development Student <br>  
 🤵🏽 Currently working on Compass UOL<br>
 👨🏽‍💻 Getting deeper and deeper into backend <br>
+ <br>
 </div>
 
  <h2> 💻 Tech Stack: </h2>
