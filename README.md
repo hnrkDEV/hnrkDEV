@@ -1,10 +1,8 @@
  <h1> What's up, i'm João!  </h1>
 <div>
-  <img align="right" height="130" src="https://i.pinimg.com/originals/c8/26/d1/c826d1edb2fb1dac3fe0d3742af8f83f.gif"/>
 👨🏽‍🎓 Systems Analysis and Development Student <br>  
 🤵🏽 Currently working on Compass UOL<br>
-👨🏽‍💻 Getting deeper and deeper into backend <br>
- <br>
+👨🏽‍💻 Getting deeper and deeper into backend
 </div>
 
  <h2> 💻 Tech Stack: </h2>
