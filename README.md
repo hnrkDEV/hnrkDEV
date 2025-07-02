@@ -1,8 +1,7 @@
  <h1> What's up, i'm João!  </h1>
 <div>
 👨🏽‍🎓 Systems Analysis and Development Student <br>  
-🤵🏽 Currently working on Cattavento Tech<br>
-👨🏽‍💻 Getting deeper and deeper into backend
+🤵🏽 Currently working on Cattavento Technology<br>
 </div>
 
  <h2> 💻 Tech Stack: </h2>
