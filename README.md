@@ -1,5 +1,5 @@
 <h1> What's up! Welcome to my profile.</h1>
-<p>know more about me below:</p>
+<h2>know more about me below:</h2>
 <div>
 👨🏽‍🎓 Systems Analysis and Development Student<br>  
 🤵🏽 Currently working on Cattavento Technology<br>
