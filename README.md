@@ -1,4 +1,4 @@
- <h1> What's up, i'm João!  </h1>
+ <h1> What's up!  </h1>
 <div>
 👨🏽‍🎓 Systems Analysis and Development Student <br>  
 🤵🏽 Currently working on Cattavento Technology<br>
