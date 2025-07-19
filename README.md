@@ -1,6 +1,7 @@
- <h1> What's up!  </h1>
+<h1> What's up! Welcome to my profile.</h1>
+<p>know more about me below:</p>
 <div>
-👨🏽‍🎓 Systems Analysis and Development Student <br>  
+👨🏽‍🎓 Systems Analysis and Development Student<br>  
 🤵🏽 Currently working on Cattavento Technology<br>
 </div>
 
