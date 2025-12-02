@@ -2,7 +2,6 @@
 <h2>know more about me below:</h2>
 <div>
 👨🏽‍🎓 Systems Analysis and Development Student<br>  
-🤵🏽 Currently working on Cattavento Technology<br>
 </div>
 
  <h2> 💻 Tech Stack: </h2>
