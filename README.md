@@ -84,9 +84,4 @@ Estou sempre estudando para evoluir como profissional e entregar projetos de alt
 
 ---
 
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hnrkDEV&theme=dracula&hide_border=true&area=true" />
-</p>
-
----
 
