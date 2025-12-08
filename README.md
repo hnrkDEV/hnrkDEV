@@ -20,7 +20,7 @@ Atuo com tecnologias modernas no frontend e backend, criando desde interfaces in
 Gosto de trabalhar com código limpo, arquitetura bem definida e boas práticas de desenvolvimento.  
 Estou sempre estudando para evoluir como profissional e entregar projetos de alto nível.
 
-- 🔭 Atualmente aprimorando minhas habilidades em **React**, **Node.js** e **TypeScript**  
+- 🔭 Constantemente aprimorando minhas habilidades em programação
 - 🌱 Explorando arquitetura, testes, APIs REST e boas práticas de backend  
 - 💼 Experiência em integrações, automações e sistemas completos  
 - 📫 Contato: **jhenrique.caval@hotmail.com**
