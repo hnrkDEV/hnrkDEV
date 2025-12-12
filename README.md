@@ -14,13 +14,10 @@
 
 ## 🚀 About me
 
-I'm a full-stack developer focused on transforming ideas into practical, scalable, and well-structured solutions.
-
-I work with modern frontend and backend technologies, creating everything from intuitive interfaces to robust systems with complex integrations.
-
-I enjoy working with clean code, well-defined architecture, and good development practices.
-
-I'm always studying to evolve professionally and deliver high-level projects.
+I'm a full-stack developer focused on transforming ideas into practical, scalable, and well-structured solutions. <br>
+I work with modern frontend and backend technologies, creating everything from intuitive interfaces to robust systems with complex integrations.<br>
+I enjoy working with clean code, well-defined architecture, and good development practices.<br>
+I'm always studying to evolve professionally and deliver high-level projects.<br>
 
 - 🔭 Constantly improving my programming skills
 - 🌱 Exploring architecture, testing, REST APIs, and backend best practices
