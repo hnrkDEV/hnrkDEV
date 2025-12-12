@@ -1,5 +1,5 @@
-<h1 align="center">Olá, sou o Henrique! 👋</h1>
-<h3 align="center">Desenvolvedor Fullstack | Criando soluções modernas e eficientes</h3>
+<h1 align="center">Hi, i'm Henrique! 👋</h1>
+<h3 align="center">Fullstack Developer | Creating modern and efficient solutions</h3>
 
 <div align="center"> 
  
@@ -12,33 +12,38 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Sou um desenvolvedor fullstack focado em transformar ideias em soluções práticas, escaláveis e bem estruturadas.  
-Atuo com tecnologias modernas no frontend e backend, criando desde interfaces intuitivas até sistemas robustos com integrações complexas.
+I'm a full-stack developer focused on transforming ideas into practical, scalable, and well-structured solutions.
 
-Gosto de trabalhar com código limpo, arquitetura bem definida e boas práticas de desenvolvimento.  
-Estou sempre estudando para evoluir como profissional e entregar projetos de alto nível.
+I work with modern frontend and backend technologies, creating everything from intuitive interfaces to robust systems with complex integrations.
 
-- 🔭 Constantemente aprimorando minhas habilidades em programação
-- 🌱 Explorando arquitetura, testes, APIs REST e boas práticas de backend  
-- 💼 Experiência em integrações, automações e sistemas completos  
-- 📫 Contato: **jhenrique.caval@hotmail.com**
+I enjoy working with clean code, well-defined architecture, and good development practices.
+
+I'm always studying to evolve professionally and deliver high-level projects.
+
+- 🔭 Constantly improving my programming skills
+- 🌱 Exploring architecture, testing, REST APIs, and backend best practices
+- 💼 Experience in integrations, automations, and complete systems
+- 📫 Contact: **jhenrique.caval@hotmail.com**
 
 ---
-## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas – UNINASSAU**  
-📅 Conclusão: Dez/2025
+## 🎓 Education
 
+**Systems Analysis and Development – ​​UNINASSAU**
 
-## 🌎 Idiomas
+📅 Graduation: Dec/2025
 
-- **Inglês técnico – Avançado**  
-- **Espanhol – Intermediário**
+## 🌎 Languages
+
+- **Technical English – Advanced**
+
+- **Spanish – Intermediate**
+
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 ### *Frontend*
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -73,7 +78,7 @@ Estou sempre estudando para evoluir como profissional e entregar projetos de alt
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Github Stats
 
 <div align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnrkDEV&theme=dracula" />
