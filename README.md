@@ -79,7 +79,7 @@ Estou sempre estudando para evoluir como profissional e entregar projetos de alt
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnrkDEV&theme=dracula" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hnrkDEV&theme=dracula" />
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hnrkDEV&theme=dracula" />
-  
+  <img height="220" src="https://streak-stats.demolab.com?user=hnrkDEV&theme=dracula&hide_border=true" />
 </div>
 
 ---
