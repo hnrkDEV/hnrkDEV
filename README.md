@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Henrique! 👋</h1>
+<h1 align="center">Hi, i'm Henrique!</h1>
 <h3 align="center">Fullstack Developer | Creating modern and efficient solutions</h3>
 
 <div align="center"> 
@@ -12,25 +12,24 @@
 
 ---
 
-## 🚀 About me
+## About me:
 
 I'm a full-stack developer focused on transforming ideas into practical, scalable, and well-structured solutions. <br>
 I work with modern frontend and backend technologies, creating everything from intuitive interfaces to robust systems with complex integrations.<br>
 I enjoy working with clean code, well-defined architecture, and good development practices.<br>
 I'm always studying to evolve professionally and deliver high-level projects.<br>
 
-- 🔭 Constantly improving my programming skills
-- 🌱 Exploring architecture, testing, REST APIs, and backend best practices
-- 💼 Experience in integrations, automations, and complete systems
-- 📫 Contact: **jhenrique.caval@hotmail.com**
+- Constantly improving my programming skills
+- Exploring architecture, testing, REST APIs, and backend best practices
+- Experience in integrations, automations, and complete systems
+- Contact: **jhenrique.caval@hotmail.com**
 
 ---
 
 ## 🎓 Education
 
-**Systems Analysis and Development – ​​UNINASSAU**
+**Bachelor’s degree in Systems Analysis and Development**
 
-📅 Graduation: Dec/2025
 
 ## 🌎 Languages
 
