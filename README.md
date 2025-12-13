@@ -14,15 +14,17 @@
 
 ## About me:
 
-I'm a full-stack developer focused on transforming ideas into practical, scalable, and well-structured solutions. <br>
-I work with modern frontend and backend technologies, creating everything from intuitive interfaces to robust systems with complex integrations.<br>
-I enjoy working with clean code, well-defined architecture, and good development practices.<br>
-I'm always studying to evolve professionally and deliver high-level projects.<br>
+I'm a full-stack developer focused on transforming ideas into practical, scalable, and well-structured solutions.<br>
+I work with modern frontend and backend technologies, building everything from intuitive interfaces to robust systems with complex integrations.<br>
+I value clean code, well-defined architecture, and good development practices.<br>
+I'm constantly studying to evolve professionally and deliver high-quality projects.
 
-- Constantly improving my programming skills
-- Exploring architecture, testing, REST APIs, and backend best practices
-- Experience in integrations, automations, and complete systems
-- Contact: **jhenrique.caval@hotmail.com**
+- Continuously improving my programming skills
+- Exploring software architecture, testing, REST APIs, and backend best practices
+- Experience with integrations, automations, and end-to-end systems
+
+  
+📫 Contact: **jhenrique.caval@hotmail.com**
 
 ---
 
